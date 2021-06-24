@@ -1,4 +1,4 @@
-let list = [
+const list = [
   {
     label: '梅桥镇',
     images: [
@@ -289,4 +289,3 @@ let list = [
   }
 ]
 export default list
-
