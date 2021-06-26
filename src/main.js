@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import './registerServiceWorker'
 import { Collapse, CollapseItem, Cell } from 'vant'
-
+import './style.css'
 Vue.use(Collapse)
 Vue.use(CollapseItem)
 Vue.use(Cell)
